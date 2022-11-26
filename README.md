@@ -12,6 +12,8 @@ The tags used in this repo are
 + ordered list and Unordered list
 + Table Tags 
 + changing layout of the website using tables
++ form tags 
++ form input tags and their attributes
 + and many other basic tags
 ## resources which can be used to learn more are given below
 [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML).
