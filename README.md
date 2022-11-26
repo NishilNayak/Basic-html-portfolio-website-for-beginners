@@ -10,6 +10,8 @@ The tags used in this repo are
 + paragraph tag
 + &nbsp tag which is used for white space
 + ordered list and Unordered list
++ Table Tags 
++ changing layout of the website using tables
 + and many other basic tags
 ## resources which can be used to learn more are given below
 [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML).
