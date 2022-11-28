@@ -1,4 +1,5 @@
-# Basic-html-portfolio-website-for-beginners
+ # Basic-html-portfolio-website-for-beginners
+ # [to visit the website click here](https://nishilnayak.github.io/Basic-html-portfolio-website-for-beginners/).
 ## Purpose of this repo
 I have just started learning web dev this repo has a personal website which is made by using basic html only .
 This website was made to understand the html boiler plate and the use of basic tags .
